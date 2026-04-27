@@ -1,7 +1,7 @@
-# ⚡ SOLO Technnologies
+# ⚡ SOLO Technologies
 ### Scalable Operation & Logical Outcome
 
-SOLO Technnologies is a results-driven software engineering firm. We specialize in architecting the digital infrastructure for modern enterprises, bridging the gap between complex business logic and high-performance automated solutions.
+SOLO Technologies is a results-driven software engineering firm. We specialize in architecting the digital infrastructure for modern enterprises, bridging the gap between complex business logic and high-performance automated solutions.
 
 ---
 
@@ -15,7 +15,7 @@ Operating out of Gwalior, MP, we serve a global clientele, providing direct engi
 
 ## 📬 Connect With Us
 - 🌐 [Official Website](https://solo-technnologies.onrender.com)
-- 💼 [LinkedIn Identity](https://linkedin.com/company/solo-technnologies-in)
+- 💼 [LinkedIn Identity](https://linkedin.com/company/solo-technologies-in)
 - 📧 [Direct Inquiry](mailto:Official.solosolution@gmail.com)
 
 *"Engineering the Future of Digital Frontiers."*
