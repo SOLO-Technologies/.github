@@ -1,25 +1,21 @@
 # ⚡ SOLO Technnologies
 ### Scalable Operation & Logical Outcome
 
-We are a results-driven software engineering firm specialized in building the digital backbone of modern enterprises. 
+SOLO Technnologies is a results-driven software engineering firm. We specialize in architecting the digital infrastructure for modern enterprises, bridging the gap between complex business logic and high-performance automated solutions.
 
-## 🔧 What We Build
-- 🤖 **Agentic AI & Automation**: Autonomous LLM-driven workflows and RPA.
-- 🖥️ **Enterprise Software**: High-performance full-stack applications.
-- ☁️ **SaaS Platforms**: Multi-tenant, cloud-native architectures.
-- 📊 **Data Engineering**: Real-time analytics and BI dashboards.
+---
 
-## 🛠️ Our Tech Stack
-- **Languages**: TypeScript, Python, Node.js, Rust.
-- **Frontend**: React, Next.js, Tailwind CSS, Framer Motion.
-- **Backend**: Express, FastAPI, PostgreSQL, Redis.
-- **Infrastructure**: AWS, Docker, Kubernetes, Render.
+## 🏗️ Our Capabilities
+We deliver end-to-end software products and intelligent automation workflows designed for global scale. Our expertise spans from **Autonomous AI Agents** and **LLM Integration** to **Enterprise-grade SaaS Platforms** and **Data Engineering**.
+
+## 🌍 Global Impact
+Operating out of Gwalior, MP, we serve a global clientele, providing direct engineer-to-client communication and state-of-the-art software delivery.
 
 ---
 
 ## 📬 Connect With Us
-- 🌐 [Website](https://solo-technologies.com)
-- 💼 [LinkedIn](https://linkedin.com/company/solo-technologies-in)
-- 📧 [Email Us](mailto:Official.solosolution@gmail.com)
+- 🌐 [Official Website](https://solo-technnologies.onrender.com)
+- 💼 [LinkedIn Identity](https://linkedin.com/company/solo-technnologies-in)
+- 📧 [Direct Inquiry](mailto:Official.solosolution@gmail.com)
 
-*"Advancing Digital Frontiers."*
+*"Engineering the Future of Digital Frontiers."*
