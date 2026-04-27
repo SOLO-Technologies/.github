@@ -9,7 +9,7 @@ SOLO Technologies is a results-driven software engineering firm. We specialize i
 We deliver end-to-end software products and intelligent automation workflows designed for global scale. Our expertise spans from **Autonomous AI Agents** and **LLM Integration** to **Enterprise-grade SaaS Platforms** and **Data Engineering**.
 
 ## 🌍 Global Impact
-Operating out of Gwalior, MP, we serve a global clientele, providing direct engineer-to-client communication and state-of-the-art software delivery.
+Operating out of Gwalior, MP, we serve a global client, providing direct engineer-to-client communication and state-of-the-art software delivery.
 
 ---
 
